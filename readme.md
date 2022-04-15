@@ -1,1 +1,3 @@
-http://127.0.0.1:5505/index.html?load=./demo/fountain/fountain_elephants.json&autorotate&compressed_textures&compressed_textures_pvr
+http://localhost:8888/?load=./demo/grass/grass.json
+http://localhost:8888/?load=./demo/fountain/fountain_elephants.json
+http://localhost:8888/?load=./demo/beach_umbrella/beach_umbrella.json
